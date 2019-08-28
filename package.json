@@ -1,0 +1,14 @@
+{
+  "name": "vimeo-downloader-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Kamble",
+  "license": "ISC",
+  "dependencies": {
+    "dlvid-core": "^1.3.5"
+  }
+}
